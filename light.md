@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Light
-permalink: /about/
+permalink: /light/
 ---
 
 Energy
