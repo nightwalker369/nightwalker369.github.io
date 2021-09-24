@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Bip Bop Post
+title: default
 ---
 
-Blog post bla bla bla
-
+a
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
