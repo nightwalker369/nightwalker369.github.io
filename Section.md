@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Section
-permalink: /about/
+permalink: /Section/
 ---
 
 New section
